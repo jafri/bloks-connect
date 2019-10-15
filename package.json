@@ -1,5 +1,5 @@
 {
-  "name": "wp-minimalist-boilerplate",
+  "name": "bloks-connect",
   "version": "1.0.0",
   "author": "João Vilaça",
   "description": "Minimal webpack boilerplate with HMR and sass",
@@ -42,5 +42,8 @@
     "webpack-cli": "^3.3.9",
     "webpack-dev-server": "^3.8.1"
   },
-  "dependencies": {}
+  "dependencies": {
+    "penpal": "^4.1.1",
+    "store": "^2.0.12"
+  }
 }
